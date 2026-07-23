@@ -9,11 +9,12 @@
 💻 Aspiring Data Scientist
 
 🌱 Currently learning
-- Python
-- SQL
+
 - Excel
+- SQL
+- Python
 - Machine Learning
-- Deep Learning
+
 
 🚀 Interested in
 - Data Science
